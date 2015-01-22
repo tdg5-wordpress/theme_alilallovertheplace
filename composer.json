@@ -1,0 +1,23 @@
+{
+  "name"       : "tdg5/lil_themer",
+  "description": "Wordpress theme for alilallovertheplace.com",
+  "keywords"   : ["wordpress"],
+  "type"       : "wordpress-theme",
+  "homepage"   : "https://github.com/tdg5/lil_themer",
+  "license"    : "MIT",
+  "authors"    : [
+    {
+      "name"    : "Danny Guinther",
+      "email"   : "dannyguinther@gmail.com",
+      "homepage": "http://tdg5.com/"
+    }
+  ],
+  "support"    : {
+    "issues": "https://github.com/tdg5/lil_themer/issues",
+    "source": "https://github.com/tdg5/lil_themer"
+  },
+  "require"    : {
+    "php"                : ">=5.3",
+    "composer/installers": "~1.0"
+  }
+}
