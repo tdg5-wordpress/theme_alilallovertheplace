@@ -1,9 +1,9 @@
 {
-  "name"       : "tdg5/lil_themer",
+  "name"       : "tdg5-wordpress/theme_alilallovertheplace",
   "description": "Wordpress theme for alilallovertheplace.com",
   "keywords"   : ["wordpress"],
   "type"       : "wordpress-theme",
-  "homepage"   : "https://github.com/tdg5/lil_themer",
+  "homepage"   : "https://github.com/tdg5-wordpress/theme_alilallovertheplace",
   "license"    : "MIT",
   "authors"    : [
     {
@@ -13,8 +13,8 @@
     }
   ],
   "support"    : {
-    "issues": "https://github.com/tdg5/lil_themer/issues",
-    "source": "https://github.com/tdg5/lil_themer"
+    "issues": "https://github.com/tdg5-wordpress/theme_alilallovertheplace/issues",
+    "source": "https://github.com/tdg5-wordpress/theme_alilallovertheplace"
   },
   "require"    : {
     "php"                : ">=5.3",
